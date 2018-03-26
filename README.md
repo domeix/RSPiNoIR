@@ -27,3 +27,11 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 - https://askubuntu.com/questions/176526/set-up-different-static-ip-addresses-for-different-networks
 - https://www.raspberrypi.org/forums/viewtopic.php?t=191140
 - https://linuxconfig.org/configuring-virtual-network-interfaces-in-linux
+
+### Tutorials
+- https://www.youtube.com/watch?v=iJdJ8NEg9I4
+- https://youtu.be/lP-QQGxm2Y0
+- https://www.youtube.com/watch?v=NQ5PMQbDDmM
+- https://www.youtube.com/watch?v=QVc_Cn6bZ7M
+- https://www.youtube.com/watch?v=T8T6S5eFpqE
+- https://www.youtube.com/watch?v=xA9rzq5_GFM
