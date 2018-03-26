@@ -29,6 +29,7 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 - https://linuxconfig.org/configuring-virtual-network-interfaces-in-linux
 
 ### HowTo
+#### Video
 - https://www.youtube.com/watch?v=iJdJ8NEg9I4
 - https://youtu.be/lP-QQGxm2Y0
 - https://www.youtube.com/watch?v=NQ5PMQbDDmM
@@ -36,6 +37,7 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 - https://www.youtube.com/watch?v=T8T6S5eFpqE
 - https://www.youtube.com/watch?v=xA9rzq5_GFM
 
+#### Text
 - https://tutorials-raspberrypi.de/raspberry-pi-ueberwachungskamera-livestream-einrichten/
 - https://tutorials-raspberrypi.de/raspberry-pi-luftfeuchtigkeit-temperatur-messen-dht11-dht22/
 - https://tutorials-raspberrypi.de/raspberry-pi-sensoren-uebersicht-die-50-wichtigsten-module/
