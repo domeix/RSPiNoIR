@@ -1,0 +1,18 @@
+[root@meye-af534a39 ~]# ifconfig wlan0
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.188.160  netmask 255.255.255.0  broadcast 192.168.188.255
+        ether b8:27:eb:06:1f:6c  txqueuelen 1000  (Ethernet)
+        RX packets 13207  bytes 1209143 (1.1 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 29903  bytes 42723781 (40.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+[root@meye-af534a39 ~]# ifconfig wlan0 | grep "inet"
+        inet 192.168.188.160  netmask 255.255.255.0  broadcast 192.168.188.255
+
+[root@meye-af534a39 ~]# ifconfig wlan0 | grep "inet" | awk '{print $2}'
+192.168.188.160
+
+curl https://freedns.afraid.org/dynamic/update.php?dmZvam1kdmVWMlhMb0xTNHI4WWw2WVNjOjE3NDkxMTYy\&address=$(ifconfig wlan0 | grep "inet" | awk '{print $2}')
+
+*/2 * * * * curl -s https://freedns.afraid.org/dynamic/update.php?dmZvam1kdmVWMlhMb0xTNHI4WWw2WVNjOjE3NDkxMTYy\&address=$(ifconfig wlan0 | grep "inet" | awk '{print $2}') >> /data/log/freedns.log 2>&1
