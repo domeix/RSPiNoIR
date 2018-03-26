@@ -14,13 +14,16 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 ## Stromaufnahme
 - http://raspi.tv/2018/how-much-power-does-raspberry-pi-3b-use-power-measurements
 
-## IP-Adresse 
-Dynamisch
+## Netzwerk
+- https://github.com/ccrisan/motioneyeos/wiki/Wifi-Preconfiguration
+
+##### Dynamisch
 - https://freedns.afraid.org/dynamic/index.php
 - https://freedns.afraid.org/dynamic/update.php?dmZvam1kdmVWMlhMb0xTNHI4WWw2WVNjOjE3NDkxMTYy&address=192.168.188.1
 - https://github.com/ccrisan/motioneyeos/wiki/Tweaks 
 
-Statisch
+##### Statisch
+- https://github.com/ccrisan/motioneyeos/wiki/static_ip.conf
 - https://askubuntu.com/questions/176526/set-up-different-static-ip-addresses-for-different-networks
 - https://www.raspberrypi.org/forums/viewtopic.php?t=191140
 - https://linuxconfig.org/configuring-virtual-network-interfaces-in-linux
