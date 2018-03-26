@@ -1,20 +1,20 @@
 # RSPiNoIR
 Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 
-## LED ansteuern
+### LED ansteuern
 - https://www.computerhilfen.de/info/raspberry-pi-gpio-anschluss-belegung-der-pins.html
 - https://www.computerhilfen.de/info/raspberry-pi-led-an-den-raspberry-anschliessen-und-leuchten-blinken-lassen.html
 - https://www.elektronik-kompendium.de/sites/raspberry-pi/2102181.htm
 - https://www.conrad.de/de/Search.html?searchType=REGULAR&search=ir%20led
 
-## Anwendungsfälle
+### Anwendungsfälle
 - https://www.rnz.de/nachrichten/heidelberg_artikel,-natuerlich-heidelberg-eroeffnet-die-neue-saison-damit-es-mit-dem-fledermauskastenbau-klappt-_arid,346896.html
 - https://9gag.com/gag/aeMMGAv
 
-## Stromaufnahme
+### Stromaufnahme
 - http://raspi.tv/2018/how-much-power-does-raspberry-pi-3b-use-power-measurements
 
-## Netzwerk
+### Netzwerk
 - https://github.com/ccrisan/motioneyeos/wiki/Wifi-Preconfiguration
 
 ##### Dynamisch
