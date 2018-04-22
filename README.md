@@ -1,4 +1,4 @@
-# RSPiNoIR
+﻿# RSPiNoIR
 Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 
 ### LED ansteuern
@@ -6,6 +6,7 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 - https://www.computerhilfen.de/info/raspberry-pi-led-an-den-raspberry-anschliessen-und-leuchten-blinken-lassen.html
 - https://www.elektronik-kompendium.de/sites/raspberry-pi/2102181.htm
 - https://www.conrad.de/de/Search.html?searchType=REGULAR&search=ir%20led
+- https://www.raspberrypi.org/forums/viewtopic.php?t=112888
 
 ### Anwendungsfälle
 - https://www.rnz.de/nachrichten/heidelberg_artikel,-natuerlich-heidelberg-eroeffnet-die-neue-saison-damit-es-mit-dem-fledermauskastenbau-klappt-_arid,346896.html
