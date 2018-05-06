@@ -17,6 +17,7 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 
 ### Netzwerk
 - https://github.com/ccrisan/motioneyeos/wiki/Wifi-Preconfiguration
+- http://www.raspberryconnect.com/network/item/331-raspberry-pi-auto-wifi-hotspot-switch-no-internet-routing adhoc-Netzwerk
 
 ##### Dynamisch
 - https://freedns.afraid.org/dynamic/index.php
