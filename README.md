@@ -31,12 +31,13 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 
 ### HowTo
 #### Video
-- https://www.youtube.com/watch?v=iJdJ8NEg9I4
-- https://youtu.be/lP-QQGxm2Y0
-- https://www.youtube.com/watch?v=NQ5PMQbDDmM
-- https://www.youtube.com/watch?v=QVc_Cn6bZ7M
-- https://www.youtube.com/watch?v=T8T6S5eFpqE
-- https://www.youtube.com/watch?v=xA9rzq5_GFM
+- https://www.youtube.com/watch?v=lP-QQGxm2Y0   Vergleich IR / NoIR
+- https://www.youtube.com/watch?v=NQ5PMQbDDmM   Vergleich IR / NoIR mit LEDs
+- https://www.youtube.com/watch?v=QVc_Cn6bZ7M   Stream HD-Video
+- https://www.youtube.com/watch?v=T8T6S5eFpqE   Einrichtung Camera an Raspi
+- https://www.youtube.com/watch?v=xA9rzq5_GFM   Einrichtung Camera an Raspi
+- https://www.youtube.com/watch?v=qCsVvGLKFGw   Installation Motion on Raspbian
+- https://www.youtube.com/watch?v=e9PK6eLl4tM   Einrichtung MotioneyeOS
 
 #### Text
 - https://tutorials-raspberrypi.de/raspberry-pi-ueberwachungskamera-livestream-einrichten/
