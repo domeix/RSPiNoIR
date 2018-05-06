@@ -12,12 +12,16 @@ Master Seminar - Nachtsicht-IP-Kamera mit dem Raspberry Pi und einer NoIR-Kamera
 - https://www.rnz.de/nachrichten/heidelberg_artikel,-natuerlich-heidelberg-eroeffnet-die-neue-saison-damit-es-mit-dem-fledermauskastenbau-klappt-_arid,346896.html
 - https://9gag.com/gag/aeMMGAv
 
+#### autarke Kamera
+- Mobile Datenverbindung https://tutorials-raspberrypi.de/raspberry-pi-gsm-modul-mobiles-internet/ 
+- adhoc-Netzwerk http://www.raspberryconnect.com/network/item/331-raspberry-pi-auto-wifi-hotspot-switch-no-internet-routing 
+- Vorgefertigte Raspi-Wildkamera https://www.raspberrypi.org/blog/naturebytes-wildlife-cam-kit/
+
 ### Stromaufnahme
 - http://raspi.tv/2018/how-much-power-does-raspberry-pi-3b-use-power-measurements
 
 ### Netzwerk
 - https://github.com/ccrisan/motioneyeos/wiki/Wifi-Preconfiguration
-- http://www.raspberryconnect.com/network/item/331-raspberry-pi-auto-wifi-hotspot-switch-no-internet-routing adhoc-Netzwerk
 
 ##### Dynamisch
 - https://freedns.afraid.org/dynamic/index.php
